@@ -40,7 +40,7 @@
 <div> <b>-DeFi</b></div>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">LANGUAGES AND TOOLS:</h3>
 <div align="left">
   <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="solidity" width="40"           height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://vyper.readthedocs.io/en/stable/_images/vyper-logo-transparent.svg" alt="vyper" width="40" height="40"/> </a>
