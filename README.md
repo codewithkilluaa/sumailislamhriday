@@ -4,7 +4,7 @@
 "It has become appealingly obvious that our technology has exceeded our humanity"  -Albert Einstein.
   Technology is evolving so fast and there's a lot more to learn. And the only thing I know, is that I know nothing.</h3>
   <h3>What is it like being a Programmer?</h3>
-  <h4>Well, Being a Programmer means constantly coding, learning, reading, planning, mapping out a new creation, thinking about how to solve a current problem or writing solutions. Coding is fun and i Love it.</h4>
+  <h4>Being a Programmer means constantly coding, learning, reading, planning, mapping out a new creation, thinking about how to solve a current problem or writing solutions. Coding is fun and i Love it.</h4>
 
 
 <img src="https://raw.githubusercontent.com/arneja-arnav/arneja-arnav/main/CS-gif.gif" alt="cryptokillua" height="450" width="900"/></a>
