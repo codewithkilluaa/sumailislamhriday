@@ -1,12 +1,29 @@
-<h2>Hi there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25" width="25"/></a>
-  My Name is Sumail Islam Hriday. I'm a programmer. I have a strong research background with expertise in Web3, Crypto, Blockchain Security, and Blockchain Technology. Welcome to my profile!</h2>
-  <h3>I'm still a student, an avid follower of technology. I love learning new languages and always looking for something new to challenge myself."It has become appallingly obvious that our technology has exceeded our humanity"  -Albert Einstein. Technology is evolving so fast and there's a lot more to learn. “The only thing I know is that I know nothing, and i am no quite sure that i know that.”</h3>
-  <h3>What is it like being a Programmer?</h3>
-  <h4>Being a Programmer means constantly coding, learning, reading, planning, mapping out a new creation, thinking about how to solve a current problem or writing solutions. Coding is fun and i Love it.</h4>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/sumailislamhriday/sumailislamhriday/blob/main/images/programminglanguages.png"><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/2e9a4fcc588fe7b505a593990b801f9712099a6c/images/programminglanguages.png" alt="sumailislamhriday" style="max-width: 100%;"></a></p>
 
 
-<img src="https://raw.githubusercontent.com/arneja-arnav/arneja-arnav/main/CS-gif.gif" alt="cryptokillua" height="450" width="900"/></a>
+
+<p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=60&color=32D474&center=true&vCenter=true&width=1500&height=110&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hriday;Welcome+to+My+GitHub+Profile!;Competitive+Programmer;Blockchain+Developer;Blockchain+Security;Cybersecurity;Cryptography;4+years%2B+Coding+Experience;I+love+learning+new+languages;and+always+looking+for+something+new+to+challenge+myself;Reader%2C+Gamer%2C+Programmer." alt="Typing SVG" /></a></p>
   
+</b>
+</b>
+
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="/sumailislamhriday/sumailislamhriday/blob/main/images/csanimegirl.gif"><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/2e9a4fcc588fe7b505a593990b801f9712099a6c/images/csanimegirl.gif" alt="sumailislamhriday" height="450" width="900"/></a></p>
+
+
+<h3 align="left">PROGRAMMING LANGUAGES:</h3>
+<div align="left">
+  <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/60dfbfa4d89c4fb646c245d8a8f5b4153da6efbb/images/logo/solidity.png" alt="solidity" width="40" height="40"/> </a>
+  
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://vyper.readthedocs.io/en/stable/_images/vyper-logo-transparent.svg" alt="vyper" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="rust" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="rust" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png" alt="rust" width="40" height="40"/> </a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/go.png" alt="rust" width="40" height="40"/> </a>
+
+
 </b></pre>
 <h3 align="left">SOME STUFF ABOUT ME:</h3>
 
@@ -44,17 +61,7 @@
 <div> <b>- Blockchain Security</b></div>
 
 
-<h3 align="left">LANGUAGES AND TOOLS:</h3>
-<div align="left">
-  <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="solidity" width="40"           height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://vyper.readthedocs.io/en/stable/_images/vyper-logo-transparent.svg" alt="vyper" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="rust" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="rust" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png" alt="rust" width="40" height="40"/> </a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/go.png" alt="rust" width="40" height="40"/> </a>
+
 
   <h3>REACH ME HERE:</h3>
 <p align="left">
