@@ -2,7 +2,7 @@
 
 
 
-<p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=60&color=30CA4B&center=true&vCenter=true&width=1600&height=110&lines=Hi+there+%F0%9F%91%8B%2C+You+can+call+me+Killua;Programmer%2C+Blockchain+Developer;I+have+a+strong+research+background+with+expertise+in;+Web3%2C+Crypto%2C+Blockchain+Technology%2C;+Blockchain+Security+and+Cybersecurity;5+years%2B+Coding+Experience;I+love+learning+new+languages;and+always+looking+for+something+new+to+challenge+myself;%22It+has+become+appealingly+obvious+that;our+technology+has+exceeded+our+humanity%22+-Albert+Einstein;Technology+is+evolving+so+fast;and+there's+a+lot+more+to+learn;and+the+only+thing+I+know%2C+is+that+I+know+nothing.;thank+you+for+your+patience;here+take+this+yellow+Heart+%F0%9F%92%9B" alt="Typing SVG" /></a></p>
+<p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=60&color=32D474&center=true&vCenter=true&width=1500&height=110&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hriday;Welcome+to+My+GitHub+Profile!;Competitive+Programmer;Blockchain+Developer;Blockchain+Security;Cybersecurity;Cryptography;4+years%2B+Coding+Experience;I+love+learning+new+languages;and+always+looking+for+something+new+to+challenge+myself;Reader%2C+Gamer%2C+Programmer." alt="Typing SVG" /></a></p>
 
 
 </b>
@@ -68,7 +68,7 @@
    <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/672fdd22ce1453146d0c0dab9b398e6e3aff17f4/images/logo/macos.png" alt="macOS" width="55" height="55" style="max-width: 100%;"> </a>
 
 
-  <h3>FOLLOW ME HERE:</h3>
+<h3>FOLLOW ME HERE:</h3>
     <a href="https://youtube.com/c/codewithkillua" target="blank" rel="noopener noreferrer" ><img src="https://github.com/SumailislamHriday/sumailislamhriday/blob/76f93f641d8d48267eca927c65699e4b1fcecc31/images/logo/YouTube.png" alt="codewithkillua" width="65" height="55" style="max-width: 100%;"> </a>
   <a href="https://www.linkedin.com/in/sumailislamhriday" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/f58be91746a8d993b50db224324558a739610c9f/images/logo/linkedin.png" alt="codewithkillua" width="55" height="55" style="max-width: 100%;"> </a>
         <a href="https://codewithkillua.hashnode.dev/" target="blank" rel="noopener noreferrer" ><img src="https://github.com/SumailislamHriday/sumailislamhriday/blob/632dac354b73bd7856efd8727f03e260bd8b37bf/images/logo/hashnode.png" alt="codewithkillua" width="55" height="55" style="max-width: 100%;"> </a>
@@ -82,29 +82,12 @@
   <a href="https://linktr.ee/codewithkillua" target="blank" rel="noopener noreferrer" ><img src="https://github.com/SumailislamHriday/sumailislamhriday/blob/76f93f641d8d48267eca927c65699e4b1fcecc31/images/logo/linktree.png" alt="sumailislamhriday" width="55" height="55" style="max-width: 100%;"> </a>
   
 
-  <h3>What is it like being a Programmer?</h3>
-  <h4>Being a Programmer means constantly coding, learning, reading, planning, mapping out a new creation, thinking about how to solve a current problem or writing solutions. Coding is fun and i Love it.</h4>
-
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/SumailislamHriday/sumailislamhriday/blob/main/images/code-min.png"><img src="https://github.com/SumailislamHriday/sumailislamhriday/blob/42af1c3232369d7694f15b24a6249f96cccfffc5/images/code-min.png" alt="sumailislamhriday" style="max-width: 100%;"></a></p>
-
-<div><p><h4>"Every person that you meet knows something you don't; learn from them."
-                                                              -H. Jackson Brown Jr.</h4></p></div>
-<div>This is an attitude I always see by the best senior developers. Because a senior developer knows that a beginner dev or junior dev is learning all the new shortcuts a senior has missed through its first stages of learning. I find it funny to see that there's often much competition between junior developers. There are always a few with the <b>"I know it all"</b> attitude in the group. Not willing to learn/share from/with others. But I can assure you, you'll come much further if you take the attitude of "we can know it all".
-One thing which makes the tech industry grow so rapidly is because we share so much. Collecting feedback is what brings us further and speeds up productivity a lot. So don't think a beginner developer or someone who started later than you knows less than you. Stay open for a conversation, when you try to teach them something, they will teach you something in return. That's the ingredient of rapidly growing. If you have the possibility, observe a senior developer. Adapt on how they treat others because 9/10 times they are willing to listen to any developer no matter their skill. Because they know the world of tech, no one knows it all. And everyone has learned something unique and/or has his own unique vision on things. So, don't be an <b>"I know it all",</b>  be a <b>"we know it all".</b>  Because as cliché as it is, together we are much stronger!</div>
-<p><h4> "It dose not matter how slowly you go, as long as you do not stop." 
-                                                           -Confucius.</h4>
-So Keep coding!</p>
-
-<pre><p> <b>while (true) {</P>
-    code ();
-}
-</b></pre>
-
 
   <h3>REACH ME HERE:</h3>
 <p align="left">
-  <a href="mailto:codewithkillua@gmail.com"" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/50a20a7f63f3294f8d1597aa34f3d145f3fe9acc/images/logo/gmail.png" alt="Hriday" width="75" height="55" style="max-width: 100%;"> </a>
-   <a href="https://github.com/SumailislamHriday" target="blank" rel="noopener noreferrer" ><img src="https://github.com/SumailislamHriday/sumailislamhriday/blob/98dbaeaf0a519389bf40573a0edd414bf566240f/images/logo/github.png" alt="sumailislamhriday" width="55" height="55" style="max-width: 100%;"> </a> 
-  
-
+  <a href="mailto:sumailislamhriday@gmail.com"" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/50a20a7f63f3294f8d1597aa34f3d145f3fe9acc/images/logo/gmail.png" alt="Hriday" width="65" height="55" style="max-width: 100%;"> </a>
+  <a href="https://www.linkedin.com/in/sumailislamhriday" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/f58be91746a8d993b50db224324558a739610c9f/images/logo/linkedin.png" alt="Hriday" width="55" height="55" style="max-width: 100%;"> </a>
+  <a href="https://discord.gg/https://discord.gg/U5djHu3RH5" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/f58be91746a8d993b50db224324558a739610c9f/images/logo/discord.png" alt="https://discord.gg/jB694SauvK" width="55" height="55" style="max-width: 100%;"> </a>
+  <a href="https://twitter.com/codewithkillua" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/f58be91746a8d993b50db224324558a739610c9f/images/logo/twitter.jpeg" alt="sumailislamhriday" width="55" height="55" style="max-width: 100%;"> </a> 
+  <a href="https://instagram.com/sumailislamhriday" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/f58be91746a8d993b50db224324558a739610c9f/images/logo/Instagram.svg" alt="codewithkillua" width="55" height="55" style="max-width: 100%;"> </a>
+  <a href="https://facebook.com/sumailislamhriday" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/f58be91746a8d993b50db224324558a739610c9f/images/logo/facebook.png" alt="sumailislamhriday" width="55" height="55" style="max-width: 100%;"> </a> 
