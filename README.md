@@ -46,7 +46,7 @@
 <h3 align="left">TOOLS:</h3>
   <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/53047f16edd451800afc4231eacf63e347126ad6/images/logo/codeblocks.png" alt="" width="55" height="55" style="max-width: 100%;"> </a>
    <a target="_blank" rel="noopener noreferrer" href="https://remix.ethereum.org/"> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/7f6c5fb38480b7d4b89c296e6bb729a0dee16df4/images/logo/cmd2.png" alt="powershell" width="55" height="55" style="max-width: 100%;"> </a>
-  <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/151aba6f36728b0b17ddbb6dd4be15ff738292ac/images/logo/powershell.png" alt="" width="55" height="55" style="max-width: 100%;"> </a>
+  <a target="_blank" rel="noopener noreferrer" href=""> <img 
     <a target="_blank" rel="noopener noreferrer" href="https://www.gnu.org/software/emacs/"> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/53047f16edd451800afc4231eacf63e347126ad6/images/logo/Emacs.png" alt="" width="55" height="55" style="max-width: 100%;"> </a>
   <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/53047f16edd451800afc4231eacf63e347126ad6/images/logo/Gnome-Terminator.png" alt="" width="55" height="55" style="max-width: 100%;"> </a>
     <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/53047f16edd451800afc4231eacf63e347126ad6/images/logo/xcode.png" alt="" width="55" height="55" style="max-width: 100%;"> </a>
@@ -62,10 +62,12 @@
 <h3 align="left">OPERATING SYSTEMS:</h3>
    <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/47eb3f300a44c63edfc117c7c2e9afbbab9f6444/images/logo/Windows.png" alt="windows" width="55" height="55" style="max-width: 100%;"> </a>
    <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/47eb3f300a44c63edfc117c7c2e9afbbab9f6444/images/logo/Linux_logo.jpeg" alt="linux" width="55" height="55" style="max-width: 100%;"> </a>
+      <a target="_blank" rel="noopener noreferrer" href=""> <img 
+   src="https://github.com/sumailislamhriday/sumailislamhriday/blob/672fdd22ce1453146d0c0dab9b398e6e3aff17f4/images/logo/macos.png" alt="macOS" width="55" height="55" style="max-width: 100%;"> </a>
    <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/47eb3f300a44c63edfc117c7c2e9afbbab9f6444/images/logo/kalilinux.png" alt="kalilinux" width="55" height="55" style="max-width: 100%;"> </a>
    <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/47eb3f300a44c63edfc117c7c2e9afbbab9f6444/images/logo/manjaro.png" alt="manjaro" width="55" height="55" style="max-width: 100%;"> </a>
    <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/47eb3f300a44c63edfc117c7c2e9afbbab9f6444/images/logo/arch.png" alt="arch-linux" width="55" height="55" style="max-width: 100%;"> </a>
-   <a target="_blank" rel="noopener noreferrer" href=""> <img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/672fdd22ce1453146d0c0dab9b398e6e3aff17f4/images/logo/macos.png" alt="macOS" width="55" height="55" style="max-width: 100%;"> </a>
+
 
 
 <h3>FOLLOW ME HERE:</h3>
