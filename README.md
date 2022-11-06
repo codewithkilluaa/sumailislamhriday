@@ -78,8 +78,7 @@
   <a href="https://twitter.com/codewithkillua" target="blank" rel="noopener noreferrer" ><img src="https://github.com/SumailislamHriday/sumailislamhriday/blob/76f93f641d8d48267eca927c65699e4b1fcecc31/images/logo/twitter-circle.png" alt="codewithkillua" width="55" height="55" style="max-width: 100%;"> </a> 
       <a href="https://www.reddit.com/r/CodeWithKillua/" target="blank" rel="noopener noreferrer" ><img src="https://github.com/SumailislamHriday/sumailislamhriday/blob/76f93f641d8d48267eca927c65699e4b1fcecc31/images/logo/reddit-logo.png" alt="codewithkillua" width="55" height="55" style="max-width: 100%;"> </a>
   <a href="https://instagram.com/codewithkillua" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/f58be91746a8d993b50db224324558a739610c9f/images/logo/Instagram.svg" alt="codewithkillua" width="55" height="55" style="max-width: 100%;"> </a>
-  <a href="https://facebook.com/codewithkillua" target="blank" rel="noopener noreferrer" ><img src="https://github.com/sumailislamhriday/sumailislamhriday/blob/f58be91746a8d993b50db224324558a739610c9f/images/logo/facebook.png" alt="codewithkillua" width="55" height="55" style="max-width: 100%;"> </a>
-  <a href="https://linktr.ee/codewithkillua" target="blank" rel="noopener noreferrer" ><img src="https://github.com/SumailislamHriday/sumailislamhriday/blob/76f93f641d8d48267eca927c65699e4b1fcecc31/images/logo/linktree.png" alt="sumailislamhriday" width="55" height="55" style="max-width: 100%;"> </a>
+ <img src="https://github.com/SumailislamHriday/sumailislamhriday/blob/76f93f641d8d48267eca927c65699e4b1fcecc31/images/logo/linktree.png" alt="sumailislamhriday" width="55" height="55" style="max-width: 100%;"> </a>
   
 
   <h3>What is it like being a Programmer?</h3>
